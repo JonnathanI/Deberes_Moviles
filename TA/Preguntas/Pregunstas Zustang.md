@@ -1,37 +1,31 @@
-## Preguntas Reflexivas
+### Preguntas Reflexivas sobre el tema de Zustang
 
-### Pregunta #1
+1. ¿Cuál es el concepto clave que Zustang propone para mejorar la colaboración en entornos educativos?[Semana 4]
 
-¿Cuál es la respuesta correcta a esta pregunta? [Semana 4]
+   A. La competencia individual.
 
-A. ¿Es esta?
+   B. La autonomía del estudiante.
 
-B. ¿Quizá esta?
+   C. La interdependencia positiva.
 
-C. ¿Tal vez esta otra?
+   ANSWER: C
 
-ANSWER: C
+2. ¿Cuál es uno de los desafíos principales que aborda Zustang en su enfoque de aprendizaje colaborativo?[Semana 4]
 
-### Pregunta #2
+   A. La falta de recursos tecnológicos.
 
-¿Qué implicaciones tiene esta decisión en nuestro proyecto? [Semana 4]
+   B. La competencia excesiva entre los estudiantes.
 
-A. Podría mejorar la eficiencia.
+   C. La dificultad para fomentar la colaboración efectiva.
 
-B. Tal vez genere más conflictos.
+   ANSWER: C
 
-C. Quizá no tenga ningún impacto.
+3. ¿Cuál es el beneficio principal que propone Zustang respecto a la implementación de la teoría colaborativa en el aula?[Semana 5]
 
-ANSWER: A
+   A. Mejora del rendimiento individual.
 
-### Pregunta #3
+   B. Desarrollo de habilidades sociales.
 
-¿Cuál es la mejor manera de abordar este problema? [Semana 4]
+   C. Promoción del aprendizaje significativo.
 
-A. A través del diálogo y la negociación.
-
-B. Ignorándolo y esperando que desaparezca.
-
-C. Tomando medidas drásticas de inmediato.
-
-ANSWER: A
+   ANSWER: C

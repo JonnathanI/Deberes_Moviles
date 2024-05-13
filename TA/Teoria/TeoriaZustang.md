@@ -1,29 +1,23 @@
-# Teoría Colaborativa
+# Zustang con React
 
 ## Teoría
 
-La teoría colaborativa es un enfoque de aprendizaje que se basa en la colaboración entre individuos para alcanzar objetivos comunes. Se fundamenta en la idea de que el intercambio de ideas y la cooperación pueden potenciar el aprendizaje y la resolución de problemas.
+En el contexto de React, Zustang se refiere al enfoque de gestionar el estado de manera predecible y mantenible utilizando TypeScript junto con React. Esto implica el uso de tipos estáticos para definir la forma del estado y las propiedades de los componentes, lo que permite detectar errores de manera temprana y garantizar un código más robusto y seguro.
 
 ## Reflexión
 
-La reflexión es una parte fundamental de la teoría colaborativa. Permite a los participantes analizar y evaluar su experiencia, identificar lo que funcionó bien y lo que podría mejorarse, y aprender de ella para futuras colaboraciones.
+Reflexionar sobre Zustang en el desarrollo de aplicaciones con React nos lleva a considerar la importancia de mantener un flujo de datos unidireccional y una arquitectura de componentes clara y modular. Al adoptar los principios de Zustang, podemos escribir código más mantenible y predecible, facilitando la depuración y la escalabilidad de nuestras aplicaciones.
 
 ## Analogía
 
-Una analogía útil para entender la teoría colaborativa es compararla con un equipo deportivo. Al igual que en un equipo, los miembros de un grupo colaborativo tienen roles y responsabilidades específicos, pero trabajan juntos hacia un objetivo común, aprovechando las fortalezas individuales para alcanzar el éxito colectivo.
+Podemos pensar en Zustang en el contexto de React como seguir un flujo de agua en un río. El agua fluye en una dirección predecible, y cada cambio en el paisaje del río tiene un efecto predecible en el flujo del agua. De manera similar, al seguir los principios de Zustang, el flujo de datos en nuestra aplicación se vuelve predecible y fácil de rastrear.
 
 ## Resumen
 
-La teoría colaborativa promueve el aprendizaje a través de la interacción y la colaboración entre los participantes. Se basa en la idea de que el conocimiento se construye de manera conjunta y que la diversidad de perspectivas enriquece el proceso de aprendizaje.
+Zustang en React es un enfoque para gestionar el estado de manera predecible y mantenible en las aplicaciones web. Al adoptar los principios de TypeScript para definir tipos estáticos y las mejores prácticas de React, podemos escribir código más limpio, robusto y seguro.
 
-## Referenciado de Libros
+## Referenciado de libros
 
-Algunos libros recomendados sobre el tema de la teoría colaborativa son:
-
-- "Aprendizaje colaborativo: guía práctica para profesores" de Ken Wiltshire.
-- "Colaboración: cómo trabajar con otros para sacar el máximo partido" de Morten Hansen.
-- "Aprendizaje colaborativo: modelos, retos y estrategias" de Rubén Edel Navarro.
-
-## Referencias
-
-Zustang, A. (Año). [Título del libro o artículo]. Nombre de la editorial o publicación.
+- "Pro React 16" - por Adam Freeman
+- "TypeScript Quickly: A Programming with TypeScript and Interactive Applications" - por Yakov Fain y Anton Moiseev
+- "Learning React: Modern Patterns for Developing React Apps" - por Alex Banks y Eve Porcello
