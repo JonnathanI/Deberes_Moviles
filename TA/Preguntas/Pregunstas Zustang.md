@@ -20,7 +20,7 @@
 
    ANSWER: C
 
-3. ¿Cuál es el beneficio principal que propone Zustang respecto a la implementación de la teoría colaborativa en el aula?[Semana 5]
+3. ¿Cuál es el beneficio principal que propone Zustang respecto a la implementación de la teoría colaborativa en el aula?[Semana 4]
 
    A. Mejora del rendimiento individual.
 
